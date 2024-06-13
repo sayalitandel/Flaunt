@@ -10,6 +10,4 @@ Provide customers with best Beauty, Wellness and Health Products
 # Mission
 To create a world where our consumers have access to a finely curated, authentic product and service that delight and elevate the human spirit.
 
-# Code Related Help!!!
-
 *This is my Capstone Project
